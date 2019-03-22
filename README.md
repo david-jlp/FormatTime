@@ -22,16 +22,18 @@ Accept "time" in seconds and return a string which is a formatted version of the
     
     - src/test/java has the unit tests. Test class name: TestFormatTimeUtility.java
     
-*2. FormatTime.jar*
+*2. FormatTime.zip*
 
-    - The entire project has been packaged into an executable jar file.
+    - The entire project has been packaged into an executable jar file (compressed into a zip file).
     
     - Steps to run it using command line has been given below.
     
 
 **How to test the results from command line using FormatTime.jar:** 
 
-1. Download the jar file (FormatTime/FormatTime.jar) to any location on your computer.
+1. Download the zip file here: https://github.com/david-jlp/FormatTime/raw/master/FormatTime.zip
+
+1. Extract the zip file to get the jar file (FormatTime.jar) to any location on your computer.
 
 2. Through command prompt, go to the above location.
 
